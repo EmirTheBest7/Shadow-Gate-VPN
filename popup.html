@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FreeProxy VPN</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            <img src="icon.png" alt="Logo" class="app-logo">
+            <h2>FreeProxy</h2>
+            <div class="header-badges">
+                <span class="badge free">FREE</span>
+                <span class="badge secured">TOR-BACKED</span>
+            </div>
+        </header>
+
+        <main>
+            <div class="connection-card">
+
+                <div class="custom-dropdown" id="customDropdown">
+                    <div class="selected-server" id="selectedServer">
+                        <span id="selectedText">🇺🇸 United States</span>
+                        <span class="arrow">▼</span>
+                    </div>
+                    <ul class="dropdown-list" id="dropdownList">
+                        <li data-value="us">🇺🇸 United States</li>
+                        <li data-value="gb">🇬🇧 United Kingdom</li>
+                        <li data-value="ca">🇨🇦 Canada</li>
+                        <li data-value="es">🇪🇸 Spain</li>
+                        <li data-value="de">🇩🇪 Germany</li>
+                        <li data-value="fr">🇫🇷 France</li>
+                        <li data-value="sg">🇸🇬 Singapore</li>
+                        <li data-value="jp">🇯🇵 Japan</li>
+                        <li data-value="au">🇦🇺 Australia</li>
+                        <li data-value="nl">🇳🇱 Netherlands</li>
+                        <li data-value="ch">🇨🇭 Switzerland</li>
+                        <li data-value="se">🇸🇪 Sweden</li>
+                    </ul>
+                </div>
+
+                <button id="connectButton">Tap to Connect</button>
+
+                <div class="status-indicator">
+                    <div class="status-pulse disconnected" id="statusPulse"></div>
+                    <span id="statusText">Disconnected</span>
+                </div>
+            </div>
+
+            <div class="features-section">
+                <h3><img src="icon.png" alt="" class="feature-icon-title"> Advanced Features</h3>
+                <div class="feature-item">
+                    <div class="feature-info">
+                        <h4>Kill Switch</h4>
+                        <p>Disable internet if VPN drops.</p>
+                    </div>
+                    <label class="switch">
+                        <input type="checkbox" id="killSwitchToggle">
+                        <span class="slider round"></span>
+                    </label>
+                </div>
+                
+                <div class="feature-item">
+                    <div class="feature-info">
+                        <h4>Split Tunneling</h4>
+                        <p>Route specific sites only.</p>
+                    </div>
+                    <span class="coming-soon">COMING SOON</span>
+                </div>
+                
+                <a href="https://ipleak.net/" target="_blank" class="verify-btn">Verify My Privacy</a>
+            </div>
+        </main>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
