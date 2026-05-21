@@ -1,0 +1,57 @@
+# Tor state file last generated on 2026-04-12 15:43:45 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+CircuitBuildTimeBin 525 2
+CircuitBuildTimeBin 535 1
+CircuitBuildTimeBin 545 1
+CircuitBuildTimeBin 555 1
+CircuitBuildTimeBin 575 1
+CircuitBuildTimeBin 595 1
+CircuitBuildTimeBin 605 1
+CircuitBuildTimeBin 625 1
+CircuitBuildTimeBin 645 1
+CircuitBuildTimeBin 655 1
+CircuitBuildTimeBin 675 1
+CircuitBuildTimeBin 695 1
+CircuitBuildTimeBin 715 1
+CircuitBuildTimeBin 755 1
+CircuitBuildTimeBin 765 1
+CircuitBuildTimeBin 795 1
+CircuitBuildTimeBin 805 1
+CircuitBuildTimeBin 825 1
+CircuitBuildTimeBin 835 1
+CircuitBuildTimeBin 845 1
+CircuitBuildTimeBin 895 1
+CircuitBuildTimeBin 985 4
+CircuitBuildTimeBin 1015 2
+CircuitBuildTimeBin 1025 1
+CircuitBuildTimeBin 1235 1
+CircuitBuildTimeBin 1615 1
+CircuitBuildTimeBin 3205 1
+CircuitBuildTimeBin 3475 1
+Dormant 0
+Guard in=default rsa_id=11E608CBB7734185D7B76F3E1230B3051717A28C nickname=kol3v14b sampled_on=2026-04-09T23:34:34 sampled_idx=0 sampled_by=0.4.9.6 listed=1 confirmed_on=2026-04-06T02:10:13 confirmed_idx=0 pb_circ_attempts=18.000000 pb_circ_successes=18.000000 pb_successful_circuits_closed=18.000000
+Guard in=default rsa_id=0CDFE5CC09D02744EB371236C48BD69B8CB22F76 nickname=prsv sampled_on=2026-04-02T14:27:34 sampled_idx=1 sampled_by=0.4.9.6 listed=1 confirmed_on=2026-04-09T17:57:38 confirmed_idx=1 pb_circ_attempts=15.000000 pb_circ_successes=15.000000 pb_successful_circuits_closed=14.000000 pb_collapsed_circuits=1.000000
+Guard in=default rsa_id=5C8CC5659757F690C9B5B9BB4A4302E8397818BF nickname=LostSahara sampled_on=2026-04-11T04:47:51 sampled_idx=2 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=99C7F100EEBA27677715D0318A71D36366B804B1 nickname=janiTORX5 sampled_on=2026-04-07T08:50:40 sampled_idx=3 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=DD0C8EEC5CA402A9FA4478F10C31A440F71F6885 nickname=chaosDelroth sampled_on=2026-04-05T04:50:33 sampled_idx=4 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=4CEAFCE5841C0DAE30164B4F59452F7F4D818A67 nickname=QOnan sampled_on=2026-04-02T18:39:18 sampled_idx=5 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=056A5A961BBAECC9264FDF35D691668F46C04187 nickname=objectivemeninsky sampled_on=2026-04-10T10:32:23 sampled_idx=6 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=A041465163D91E5F11B230F089784EB6CEF653CB nickname=PRQseTORexit2 sampled_on=2026-04-07T08:05:13 sampled_idx=7 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=CA8A032D619C1C4FA06658A0DE25F7EA97CB1115 nickname=magic848relay sampled_on=2026-03-31T18:17:13 sampled_idx=8 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=56D878C942CD38F5287079974950668B18ECC4CD nickname=Quetzalcoatl sampled_on=2026-04-11T14:45:16 sampled_idx=9 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=50C35977E3E82C01129BB22CB6AB0D674773D584 nickname=ForPrivacyNET sampled_on=2026-04-11T07:13:38 sampled_idx=10 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=D9B82D372FCA37F82058292FB44E229DE89EE0BE nickname=peeweelongway sampled_on=2026-04-10T19:16:43 sampled_idx=11 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=C89976F41351B3F0CDA25C385B41ED26A276579A nickname=Lily sampled_on=2026-04-05T12:59:26 sampled_idx=12 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=1359BB4BF1382722D11895B298053F9A99A7314E nickname=robbbanksbroward sampled_on=2026-04-04T10:09:25 sampled_idx=13 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=2A7549ED6C51D6369A70A0277F7F4349E091072A nickname=JaysTorRelay sampled_on=2026-04-01T21:57:31 sampled_idx=14 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=4C959537449CA5F739107C67C9E6CE102F601C5F nickname=NFOrce sampled_on=2026-04-04T20:01:59 sampled_idx=15 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=4BD7D8D384FF76BCB5256DF41304DA84F77C8BFA nickname=zgato sampled_on=2026-04-04T20:22:32 sampled_idx=16 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=0B36357704326AD8977AD3386409CA8D99189B6C nickname=keakdasneak sampled_on=2026-04-04T15:23:24 sampled_idx=17 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=E3040061DD578D614D83AC0AE3526ABDFE9FC323 nickname=ElToro sampled_on=2026-04-05T09:48:12 sampled_idx=18 sampled_by=0.4.9.6 listed=1
+Guard in=default rsa_id=0AE076CD2A4201BF2D90C325211A10D2C8DD6CE9 nickname=Tajjina sampled_on=2026-04-06T05:46:34 sampled_idx=19 sampled_by=0.4.9.6 listed=1
+LastWritten 2026-04-12 09:43:45
+MinutesSinceUserActivity 3
+TorVersion Tor 0.4.9.6 (git-894a92ac2279747e)
+TotalBuildTimes 33
