@@ -1,7 +1,16 @@
 <div align="center">
-	<h1>Shadow-Gate-VPN</h1>
+	<h1>Shadow-Gate-VPN 🌐</h1>
 	<img src="_img/Tor-vpn-scheme.jpg"><br>
 </div>
+
+## 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Platform-Chrome%20%7C%20Edge-success.svg" alt="Platform">
+  <img src="https://img.shields.io/badge/Setup-Plug%20%26%20Play-brightgreen.svg" alt="Setup">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+</p>
 
 A high-performance, full-stack VPN extension leveraging the Tor network. Engineered for zero-trust traffic obfuscation and low-latency onion routing.
 
