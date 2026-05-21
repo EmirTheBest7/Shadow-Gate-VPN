@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Shadow-Gate-VPN</h1>
-	<img src="_img/banner.png"><br>
+	<img src="_img/Tor-vpn-scheme.jpg"><br>
 </div>
 
 A high-performance, full-stack VPN extension leveraging the Tor network. Engineered for zero-trust traffic obfuscation and low-latency onion routing.
